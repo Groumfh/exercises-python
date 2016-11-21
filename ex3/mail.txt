@@ -1,0 +1,9 @@
+Hey !
+
+Nouvelle release dispo de {PRODUCT_NAME} {VERSION} !
+Vous pourrez la trouver sur le FTP a cette adresse: {FTP_URL}
+
+Les fichiers à telecharger sont:
+{FILES}
+
+Pour toute question, contactez nous avec [MAILS]

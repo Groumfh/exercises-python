@@ -1,0 +1,7 @@
+{
+    "FTP_URL": "ftp://IUT/myProject/releases",
+    "VERSION": "2.3.1-fd15ea21",
+    "PRODUCT_NAME": "2048",
+    "FILES": ["2048.exe","opengl.dll","glew.dll"],
+    "MAILS": ["toto@IUT.com","tata@IUT.com"]
+}
